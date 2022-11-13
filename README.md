@@ -7,7 +7,7 @@ Gygabyte Geforce RTX 3070 EAGLE OC REV 2.0
 Intel I5 12400F
 
 ## RAM
-Kingston FURY Beast 16GB (2x8GB) 3200MHz DDR3 CL16 Mémoire Kit pour PC Kit de 2 KF432C16BBK2/16
+Kingston FURY Beast 16GB (2x8GB) 3200MHz DDR4 CL16 Mémoire Kit pour PC Kit de 2 KF432C16BBK2/16
 
 ## Mother Board
 ASUS PRIME B660-PLUS DDR4
