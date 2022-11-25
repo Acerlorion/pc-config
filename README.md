@@ -20,6 +20,7 @@ Arctic || Thermal Grizzly | Noctua
 
 ## SSD M.2 main
 Samsung 980 1To SSD M.2
+67€ - [Crucial P3 1To](https://www.amazon.fr/dp/B0B25LZGGW?smid=A1X6FK5RDHNB96&tag=ugcdealabs02-21&ascsubtag=1355074831)
 
 ## SSD 2.5 os
 Silicon Power SSD 128Go
