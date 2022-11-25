@@ -8,7 +8,7 @@ Intel I5 12400F
 
 ## RAM
 Kingston FURY Beast 16GB (2x8GB) 3200MHz DDR4 CL16 Mémoire Kit pour PC Kit de 2 KF432C16BBK2/16
-
+96€ - [Corsair Vengeance LPX 32GB (2x16GB) DDR4 3200MHz C16 - Noir](https://www.amazon.fr/Corsair-Vengeance-32GB-2x16GB-3200MHz/dp/B07RW6Z692?tag=ugcdealabs02-21&ascsubtag=1355085573)
 ## Mother Board
 ASUS PRIME B660-PLUS DDR4
 
